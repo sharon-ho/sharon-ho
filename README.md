@@ -1,16 +1,27 @@
 ### Hi there 👋
+I'm Sharon (she/her) and I'm currently studying Software Engineering at Concordia University in Montreal. 
 
-<!--
-**sharon-ho/sharon-ho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My passion lies in ethics & social impact of technology, cyber security & privacy, technology & the arts, and technology for social good. 
 
-Here are some ideas to get you started:
+Open to all learning and internship opportunities. Check out my CV [here](https://github.com/sharon-ho/sharon-ho/blob/main/Sharon%20Ho%20Resume.pdf)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Skills
+
+- **Progamming:** Java, C++, Python, Kotlin
+- **Mobile Dev:** Android (Kotlin)
+- **Web Dev:** JavaScript, React, Node.js, Ruby on Rails, Flask
+- **3D Modeling:** OpenGL, OpenSCAD
+- **Game Dev:** Construct 2
+- **UI/UX:** Figma, Adobe XD
+
+### 🌱 I’m currently learning 
+
+- OpenGL/Computer Graphics
+- Computer Networking
+    
+### 📫 How to reach me: 
+
+- LinkedIn: https://www.linkedin.com/in/sharon-ho
+- GitHub: https://github.com/sharon-ho
+- E-mail: sharon.cy.ho[at]gmail.com
+   
