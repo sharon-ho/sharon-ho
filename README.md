@@ -7,7 +7,7 @@ Open to all learning and internship opportunities. Check out my CV [here](https:
 
 ### 🔭 Skills
 
-- **Progamming:** Java, C++, Python, Kotlin
+- **Progamming:** Java, C++, JavaScript, Python, Kotlin
 - **Mobile Dev:** Android (Kotlin)
 - **Web Dev:** JavaScript, React, Node.js, Ruby on Rails, Flask
 - **3D Modeling:** OpenGL, OpenSCAD
