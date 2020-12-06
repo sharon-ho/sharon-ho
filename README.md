@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Sharon (she/her) and I'm currently studying Software Engineering at Concordia University in Montreal. 
 
-My passion lies in ethics & social impact of technology, UI/UX, and technology for social good. 
+My passion lies in ethics & social impact of technology and technology for social good. 
 
 Open to all learning and internship opportunities. Check out my CV [here](https://github.com/sharon-ho/sharon-ho/blob/main/Sharon%20Ho%20Resume.pdf)!
 
