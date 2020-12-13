@@ -1,9 +1,15 @@
 ### Hi there 👋
 I'm Sharon (she/her) and I'm currently studying Software Engineering at Concordia University in Montreal. 
 
-My passion lies in ethics & social impact of technology and technology for social good. 
+My passion lies in ethics & social impact of technology and technology for social good.
+
+From design to implementation, I love being involved in any part of the software development process.
 
 Open to all learning and internship opportunities. Check out my CV [here](https://github.com/sharon-ho/sharon-ho/blob/main/Sharon%20Ho%20Resume.pdf)!
+
+### 👩‍💻 What I'm working on
+
+Currently I am working on [Switchboard](https://github.com/bean-pod/switchboard) as one of its front-end developers and UI/UX designers. It's a web service that enables peer-to-peer video streaming between senders and receivers. This project is my team's final year undergraduate Capstone project at Concordia University. 
 
 ### 🔭 Skills
 
