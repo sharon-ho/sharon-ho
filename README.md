@@ -7,7 +7,7 @@ From design to implementation, I love being involved in any part of the software
 
 Open to all learning and internship opportunities. Check out my CV [here](https://github.com/sharon-ho/sharon-ho/blob/main/Sharon%20Ho%20Resume.pdf)!
 
-### 👩‍💻 What I'm working on
+### 👩‍💻 I'm currently working on
 
 I am working on [Switchboard](https://github.com/bean-pod/switchboard) as one of its front-end developers and UI/UX designers. It's a web service that enables peer-to-peer video streaming between senders and receivers. This project is my team's final year undergraduate Capstone project at Concordia University. 
 
