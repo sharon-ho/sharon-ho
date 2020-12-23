@@ -3,7 +3,7 @@ I'm Sharon (she/her) and I'm currently studying Software Engineering at Concordi
 
 My passion lies in ethics & social impact of technology and technology for social good.
 
-From design to implementation, I love being involved in any part of the software development process.
+From design to implementation, I love being involved in all parts of the software development process.
 
 Open to all learning and internship opportunities. Check out my CV [here](https://github.com/sharon-ho/sharon-ho/blob/main/Sharon%20Ho%20Resume.pdf)!
 
