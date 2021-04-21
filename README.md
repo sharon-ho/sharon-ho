@@ -24,7 +24,7 @@ Open to all learning and internship opportunities. Check out my CV [here](https:
 
 ### 🌱 I’m currently learning 
 
-- Artifical Intelligence/Machine Learning
+- Artificial Intelligence/Machine Learning
     
 ### 📫 How to reach me: 
 
