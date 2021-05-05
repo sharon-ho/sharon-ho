@@ -11,7 +11,7 @@ Open to all learning and internship opportunities. Check out my CV [here](https:
 
 ### 👩‍💻 I've recently worked on
 
-[Switchboard](https://github.com/bean-pod/switchboard) as one of its front-end developers and UI/UX designers. It's a web service that enables peer-to-peer video streaming between senders and receivers. This project is my team's final year undergraduate Capstone project at Concordia University. 
+[Switchboard](https://github.com/bean-pod/switchboard) as one of its front-end developers and UI/UX designers. It's a web service that enables peer-to-peer video streaming between senders and receivers. This project is my team's final year undergraduate Capstone project at Concordia University. Our project received high praise and a final letter grade of A+! 
 
 ### 🔭 Skills
 
