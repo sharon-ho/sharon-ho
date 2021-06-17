@@ -24,7 +24,8 @@ Open to all learning and internship opportunities. Check out my CV [here](https:
 
 ### 🌱 I’m currently learning 
 
-- Artificial Intelligence/Machine Learning
+- Artificial Intelligence and Machine Learning
+- EDI Principles in Software Engineering
     
 ### 📫 How to reach me: 
 
