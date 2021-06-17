@@ -3,7 +3,7 @@ I'm Sharon (she/her) and I'm currently studying Software Engineering at Concordi
 
 My passion lies in ethics & social impact of technology and technology for social good.
 
-I have special interests in data scraping with Python, web development with React and UI/UX design.
+I have special interests in data analysis with Python, web development with React and UI/UX design.
 
 From design to implementation, I love being involved in all parts of the software development process. 
 
