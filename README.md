@@ -15,7 +15,7 @@ Open to all learning and internship opportunities. Check out my CV [here](https:
 
 ### 🔭 Skills
 
-- **Progamming:** Java, C++, JavaScript, Python, Kotlin
+- **Progamming:** Java, C++, C#, JavaScript, TypeScript, Python
 - **Mobile Dev:** Android (Kotlin)
 - **Web Dev:** JavaScript, React, Node.js, Ruby on Rails, Flask
 - **3D Modeling:** OpenGL, OpenSCAD
@@ -26,6 +26,8 @@ Open to all learning and internship opportunities. Check out my CV [here](https:
 
 - Artificial Intelligence and Machine Learning
 - EDI Principles in Software Engineering
+- VR/AR Development with Unity and Unreal
+- Computer Graphics
     
 ### 📫 How to reach me: 
 
