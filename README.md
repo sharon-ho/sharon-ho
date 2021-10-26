@@ -7,7 +7,7 @@ I have special interests in data analysis with Python, web development with Reac
 
 From design to implementation, I love being involved in all parts of the software development process. 
 
-Open to all learning and internship opportunities. Check out my CV [here](https://github.com/sharon-ho/sharon-ho/blob/main/Sharon%20Ho%20Resume.pdf)!
+Open to all learning and internship opportunities.
 
 ### 👩‍💻 I recently worked on
 
