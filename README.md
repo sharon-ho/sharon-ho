@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Sharon (she/her) and I'm currently studying Software Engineering at Concordia University in Montreal. 
 
-My passion lies in ethics & social impact of technology and technology for social good.
+My research interests include synthetic media, social impacts of artificial intelligence and technology for social good.
 
-I have special interests in data analysis with Python, web development with React and UI/UX design.
+I enjoy doing data analysis with Python, web development with React and UI/UX design.
 
 From design to implementation, I love being involved in all parts of the software development process. 
 
