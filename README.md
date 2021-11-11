@@ -7,7 +7,7 @@ I enjoy doing data analysis with Python, web development with React and UI/UX de
 
 From design to implementation, I love being involved in all parts of the software development process. 
 
-Open to all learning and internship opportunities.
+Open to all learning and internship opportunities!
 
 ### 👩‍💻 I recently worked on
 
