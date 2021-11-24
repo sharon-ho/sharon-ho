@@ -17,9 +17,9 @@ Open to all learning and internship opportunities!
 
 - **Progamming:** Java, C++, C#, JavaScript, TypeScript, Python
 - **Mobile Dev:** Android (Kotlin)
-- **Web Dev:** JavaScript, React, Node.js, Ruby on Rails, Flask
+- **Web Dev:** JavaScript, React, Node.js, Flask
 - **3D Modeling:** OpenGL, OpenSCAD
-- **Game Dev:** Construct 2
+- **Game Dev:** Unity, Construct 2
 - **UI/UX:** Figma, Adobe XD
 
 ### 🌱 I’m currently learning 
