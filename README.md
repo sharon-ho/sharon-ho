@@ -5,8 +5,6 @@ My research interests include synthetic media, social impacts of artificial inte
 
 I enjoy doing data analysis with Python, web development with React and UI/UX design.
 
-From design to implementation, I love being involved in all parts of the software development process. 
-
 Open to all learning and internship opportunities!
 
 ### 👩‍💻 I recently worked on
@@ -15,9 +13,10 @@ Open to all learning and internship opportunities!
 
 ### 🔭 Skills
 
-- **Progamming:** Java, C++, C#, JavaScript, TypeScript, Python
+- **Progamming:** Python, Java, C++, C#, JavaScript, TypeScript
+- **Machine Learning:** TensorFlow, sci-kit learn
 - **Mobile Dev:** Android (Kotlin)
-- **Web Dev:** JavaScript, React, Node.js, Flask
+- **Web Dev:** JavaScript, React, Node.js
 - **3D Modeling:** OpenGL, OpenSCAD
 - **Game Dev:** Unity, Construct 2
 - **UI/UX:** Figma, Adobe XD
@@ -26,12 +25,13 @@ Open to all learning and internship opportunities!
 
 - Artificial Intelligence and Machine Learning
 - EDI Principles in Software Engineering
-- VR/AR Development with Unity and Unreal
+- AI Ethics and Policy
+- VR/AR Development with Unity and Unreal Engine
 - Computer Graphics
     
 ### 📫 How to reach me: 
 
 - LinkedIn: https://www.linkedin.com/in/sharon-ho
 - GitHub: https://github.com/sharon-ho
-- E-mail: sharon.cy.ho[at]gmail.com
+- E-mail: h_sharon[at]encs[dot]concordia[dot]ca
    
