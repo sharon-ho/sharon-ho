@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Sharon (she/her) and I'm currently studying Software Engineering at Concordia University in Montreal. 
 
-My research interests include synthetic media, social impacts of artificial intelligence and technology for social good.
+My research interests include synthetic media and generative AI, social impact and ethical implications of artificial intelligence, and technology for social good.
 
-I enjoy doing data analysis with Python, web development with React and UI/UX design.
+I enjoy doing data analysis with Python, web development with React, and UI/UX design.
 
 Open to all learning and internship opportunities!
 
@@ -14,7 +14,7 @@ Open to all learning and internship opportunities!
 ### 🔭 Skills
 
 - **Progamming:** Python, Java, C++, C#, JavaScript, TypeScript
-- **Machine Learning:** TensorFlow, sci-kit learn
+- **Machine Learning:** TensorFlow, scikit-learn
 - **Mobile Dev:** Android (Kotlin)
 - **Web Dev:** JavaScript, React, Node.js
 - **3D Modeling:** OpenGL, OpenSCAD
@@ -25,13 +25,12 @@ Open to all learning and internship opportunities!
 
 - Artificial Intelligence and Machine Learning
 - EDI Principles in Software Engineering
-- AI Ethics and Policy
-- VR/AR Development with Unity and Unreal Engine
+- AI Ethics and AI Policy
+- VR/AR Development with Unity
 - Computer Graphics
     
 ### 📫 How to reach me: 
 
 - LinkedIn: https://www.linkedin.com/in/sharon-ho
-- GitHub: https://github.com/sharon-ho
 - E-mail: h_sharon[at]encs[dot]concordia[dot]ca
    
